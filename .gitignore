@@ -1,0 +1,4 @@
+data
+apikey.txt
+*.txt
+.DS_Store
